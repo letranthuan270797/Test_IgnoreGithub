@@ -7,6 +7,6 @@ namespace Test_IgnoreGithub.Model
 {
     public class TestCommit
     {
-
+        //commit file
     }
 }
